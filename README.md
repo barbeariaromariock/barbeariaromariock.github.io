@@ -14,7 +14,7 @@ Site de uma página da **Barbearia RomarioCK** (Maracanaú-CE), feito com a iden
 | Mapa | Google Maps (embed sem chave de API) | Grátis |
 | Agendamento | Link `wa.me` do WhatsApp | Grátis |
 
-O endereço fica no formato `https://SEU-USUARIO.github.io/barbearia-romariock/`. Um domínio próprio (`.com.br`) é opcional e é a única coisa que teria custo.
+Endereço no ar: **https://lohan-lucas.github.io/barbearia-romariock/** Um domínio próprio (`.com.br`) é opcional e é a única coisa que teria custo.
 
 ## Estrutura
 
@@ -53,6 +53,6 @@ Depois abra http://localhost:5173.
    ```
 4. No GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `(root)` → Save**.
 5. Em 1 a 2 minutos o site aparece em `https://SEU-USUARIO.github.io/barbearia-romariock/`.
-6. Troque `content="assets/og-image.jpg"` no `index.html` pelo endereço completo (`https://SEU-USUARIO.github.io/barbearia-romariock/assets/og-image.jpg`) para a prévia aparecer ao compartilhar no WhatsApp.
+6. Se o endereço mudar (outra conta ou domínio próprio), atualize `https://lohan-lucas.github.io/barbearia-romariock/` no `index.html`, `robots.txt` e `sitemap.xml`: é o que faz a prévia aparecer ao compartilhar no WhatsApp.
 
 Para atualizar depois: edite, `git commit` e `git push`. O GitHub Pages publica sozinho.

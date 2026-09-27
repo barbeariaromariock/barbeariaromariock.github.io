@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lohan-lucas.github.io/barbearia-romariock/sitemap.xml
