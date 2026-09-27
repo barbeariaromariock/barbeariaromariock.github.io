@@ -22,6 +22,7 @@ Um domínio próprio (`.com.br`) é opcional e é a única coisa que teria custo
 
 ```
 index.html           página inteira (textos, links e ícones)
+404.html             página de erro para endereços que não existem
 css/style.css        visual (cores no topo do arquivo, em :root)
 js/main.js           cabeçalho, "hoje é ...", dias da semana, animações
 assets/              favicon, pincelada, textura e imagem de prévia
