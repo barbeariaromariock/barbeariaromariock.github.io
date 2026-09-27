@@ -36,6 +36,7 @@ tools/og-image.html  modelo da imagem que aparece ao compartilhar o link
 - **Dias de atendimento**: textos no `index.html`; a regra "aberto de terça a sábado" está em `js/main.js` (`today >= 2 && today <= 6`).
 - **Horário ou preços**: ainda não estão no site porque não constam no Instagram. Dá para colocar os valores dentro de cada cartão de serviço (`<article class="service-card">`).
 - **Cores**: variáveis no começo do `css/style.css` (`--gold`, `--ink`, `--cream`...).
+- **Mudou o CSS ou o JS?** Aumente o número em `?v=2` (para `?v=3`...) nos links do `index.html` e do `404.html`. Sem isso, quem já visitou pode ver a versão antiga por até 10 minutos (cache do GitHub Pages).
 
 ## Ver no computador
 
