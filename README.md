@@ -14,7 +14,7 @@ Site de uma página da **Barbearia RomarioCK** (Maracanaú-CE), feito com a iden
 | Mapa | Google Maps (embed sem chave de API) | Grátis |
 | Agendamento | Link `wa.me` do WhatsApp | Grátis |
 
-Endereço no ar: **https://lohan-lucas.github.io/barbearia-romariock/**
+Endereço no ar: **https://barbeariaromariock.github.io/**
 
 Um domínio próprio (`.com.br`) é opcional e é a única coisa que teria custo.
 
@@ -46,8 +46,9 @@ Depois abra http://localhost:5173.
 
 ## Hospedagem (já configurada)
 
-- Repositório: https://github.com/Lohan-Lucas/barbearia-romariock
-- Site: https://lohan-lucas.github.io/barbearia-romariock/
+- Repositório: https://github.com/barbeariaromariock/barbeariaromariock.github.io
+- Site: https://barbeariaromariock.github.io/
+- O endereço antigo (`lohan-lucas.github.io/barbearia-romariock`) redireciona para o novo, pelo repositório `Lohan-Lucas/barbearia-romariock`.
 - O GitHub Pages publica a branch `main` (pasta raiz). Cada `git push` atualiza o site em 1 a 2 minutos.
 
 Para atualizar:
@@ -58,4 +59,4 @@ git commit -m "Descreva a mudança"
 git push
 ```
 
-Se o endereço mudar (outra conta ou domínio próprio), atualize `https://lohan-lucas.github.io/barbearia-romariock/` no `index.html`, `robots.txt` e `sitemap.xml`: é o que faz a prévia aparecer ao compartilhar no WhatsApp.
+Se o endereço mudar (outra conta ou domínio próprio), atualize `https://barbeariaromariock.github.io/` no `index.html`, `robots.txt` e `sitemap.xml`: é o que faz a prévia aparecer ao compartilhar no WhatsApp.
